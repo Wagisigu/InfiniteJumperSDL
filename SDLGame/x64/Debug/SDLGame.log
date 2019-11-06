@@ -1,0 +1,10 @@
+﻿  BouncingObject.cpp
+  GameObject.cpp
+  main.cpp
+  Game.cpp
+  Menu.cpp
+  Platform.cpp
+  Player.cpp
+  TextureManager.cpp
+  Generating Code...
+  SDLGame.vcxproj -> C:\Users\camer\source\repos\SDLGame Self Trials\x64\Debug\SDLGame.exe
